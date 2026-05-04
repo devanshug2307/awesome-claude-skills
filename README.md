@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://mcp.directory/skills">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B5CF6,100:6366F1&height=240&section=header&text=Awesome%20Claude%20Skills&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=8%2C600%2B%20Claude%20Skills%2C%20Agent%20Skills%20%26%20Cursor%20Rules%20from%20mcp.directory&descSize=18&descAlignY=72&fontAlign=50&fontAlignY=38" alt="Awesome Claude Skills" />
+    <img src="hero.svg" alt="Awesome Claude Skills" />
   </a>
 </p>
 
